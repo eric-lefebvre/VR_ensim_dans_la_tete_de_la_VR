@@ -1,0 +1,3 @@
+[submodule "illixr_android/android_libraries"]
+	path = illixr_android/android_libraries
+	url = https://github.com/ILLIXR/android_libraries
